@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image:  linear-gradient(to right,white,pink)
+}
+section{
+    border: 4px solid black;
+    width: 40rem;
+    height: 33rem;
+    margin: 110px auto 0 ;
+    background-color: salmon;
+    text-align: center;
+    box-shadow: 3px 3px 3px black;
+}
+.logo{
+    margin-top: -80px;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 4px solid black;
+}
+h2{
+    font-size: 22px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+span{
+    color: yellow;
+}
+ section p{
+    font-size: 47px;
+    font-weight: bold;
+    color: rgb(58, 56, 56);
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.download{
+    text-align: center;
+    padding-top: 40px;
+    font-size: 20px;
+    color: rgb(192, 26, 192);
+}
+.download p{
+    text-align: center;
+    
+}
